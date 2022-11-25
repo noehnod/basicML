@@ -1,5 +1,5 @@
 #PLEASE WRITE THE GITHUB URL BELOW!
-#https://github.com/noehnod/basicML.git
+#https://github.com/noehnod/basicML
 
 import sys
 import pandas as pd
